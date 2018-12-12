@@ -1,2 +1,4 @@
 # vision_language_repo
-This is a repository for the papers and materials in Image Captioning, Text-to-Image Generation and Image-Text Matching
+Bridging visual modalities and natural language is a interesting yet challenging task. It attracts more and more research highlights and requires interdisciplinary efforts from Computer Vision, Natural Language Processing and Machine Learning.
+
+This repository contains recent papers on Image Captioning, Text-to-Image Generation and Text-Image Matching. Hopefully, it could be used as a warehouse of learning materials.

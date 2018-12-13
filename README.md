@@ -1,7 +1,7 @@
 # Vision Language Warehouse
 Bridging visual modalities and natural language is a interesting yet challenging task. It attracts more and more research highlights and requires interdisciplinary efforts from Computer Vision, Natural Language Processing and Machine Learning.
 
-This repository contains recent materials on __Image Captioning__, __Text-Image Matching__ and __Text-to-Image Generation__. 
+This repository contains recent papers, projects and materials on __Image Captioning__, __Text-Image Matching__ and __Text-to-Image Generation__. 
 
 ## Content
 - <a href="#image_captioning">Image Captioning</a>

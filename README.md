@@ -9,7 +9,7 @@ This repository contains recent papers, projects and materials on __Image Captio
 - <a href="#text-to-image_generation">Text-to-Image Generation</a>
 
 <div id="image_captioning">
-<h2>Image captioning<h2>
+<h2>Image captioning</h2>
 
 ### Template-based methods
 [VIsual TRAnslator: Linking perceptions and natural language descriptions](http://www.dfki.de/~flint/papers/air94.pdf)

@@ -24,10 +24,10 @@ Babytalk: Understanding and generating simple image descriptions [PDF](http://ww
 Show and Tell: A Neural Image Caption Generator (CVPR2015) [PDF](https://arxiv.org/pdf/1411.4555.pdf)
 <p align="center"><img src="img/nic.png" width="400"/></p>
 
-Deep Visual-Semantic Alignments for Generating Image Descriptions (CVPR2015) [PDF](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
+Deep Visual-Semantic Alignments for Generating Image Descriptions (CVPR2015) [PDF](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf) [code](https://github.com/karpathy/neuraltalk2) [site](https://cs.stanford.edu/people/karpathy/deepimagesent/)
 <p align="center"><img src="img/neuraltalk2.png" width="400"/></p>
 
-Show, Attend and Tell: Neural Image Caption Generation with Visual Attention (ICML2015) [PDF](https://arxiv.org/pdf/1502.03044.pdf)
+Show, Attend and Tell: Neural Image Caption Generation with Visual Attention (ICML2015) [PDF](https://arxiv.org/pdf/1502.03044.pdf) [code](https://github.com/kelvinxu/arctic-captions) [site](http://kelvinxu.github.io/projects/capgen.html)
 <p align="center"><img src="img/attn.png" width="700"/></p>
 
 Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks (NIPS2015) [PDF](https://arxiv.org/pdf/1506.03099.pdf) 
@@ -36,25 +36,25 @@ Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks (NIPS2
 Areas of Attention for Image Captioning (ICCV2017) [PDF](https://arxiv.org/pdf/1612.01033.pdf)
 <p align="center"><img src="img/area.png" width="400"/></p>
 
-Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning (CVPR2017) [PDF](https://arxiv.org/pdf/1612.01887.pdf)
+Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning (CVPR2017) [PDF](https://arxiv.org/pdf/1612.01887.pdf) [code](https://github.com/jiasenlu/AdaptiveAttention)
 <p align="center"><img src="img/adaptive.png" width="500"/></p>
 
-SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning (CVPR2017) [PDF](https://arxiv.org/pdf/1611.05594.pdf)
+SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning (CVPR2017) [PDF](https://arxiv.org/pdf/1611.05594.pdf) [code](https://github.com/zjuchenlong/sca-cnn.cvpr17)
 <p align="center"><img src="img/sca_cnn.png" width="400"/></p>
 
 Self-critical Sequence Training for Image Captioning (CVPR2017) [PDF](https://arxiv.org/pdf/1612.00563.pdf)
 <p align="center"><img src="img/self-critical.png" width="500"/></p>
 
-Stack-Captioning: Coarse-to-Fine Learning for Image Captioning (arXiv 2017) [PDF](https://arxiv.org/pdf/1709.03376.pdf)
+Stack-Captioning: Coarse-to-Fine Learning for Image Captioning (AAAI2018) [PDF](https://arxiv.org/pdf/1709.03376.pdf) [code](https://github.com/gujiuxiang/Stack-Captioning)
 <p align="center"><img src="img/stacked.png" width="500"/></p>
 
-Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering (CVPR2018) [PDF](https://arxiv.org/pdf/1707.07998.pdf)
+Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering (CVPR2018) [PDF](https://arxiv.org/pdf/1707.07998.pdf) [code](https://github.com/peteanderson80/bottom-up-attention)
 <p align="center"><img src="img/bottomup.png" width="800"/></p>
 
-Convolutional Image Captioning (CVPR2018) [PDF](https://arxiv.org/pdf/1711.09151.pdf)
+Convolutional Image Captioning (CVPR2018) [PDF](https://arxiv.org/pdf/1711.09151.pdf) [code](https://github.com/aditya12agd5/convcap)
 <p align="center"><img src="img/conv_cap.png" width="600"/></p>
 
-Rethinking the Form of Latent States in Image Captioning (ECCV2018) [PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bo_Dai_Rethinking_the_Form_ECCV_2018_paper.pdf)
+Rethinking the Form of Latent States in Image Captioning (ECCV2018) [PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bo_Dai_Rethinking_the_Form_ECCV_2018_paper.pdf) [code](https://github.com/doubledaibo/2dcaption_eccv2018)
 <p align="center"><img src="img/rethink.png" width="700"/></p>
 
 Recurrent Fusion Network for Image Captioning (ECCV2018) [PDF](https://arxiv.org/pdf/1807.09986.pdf)
@@ -117,22 +117,22 @@ Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Gen
 <div id="text-to-image_generation">
 <h2>Text-to-Image Generation</h2>
 
-Generating Images From Captions with Attention (ICLR2016) [PDF](https://arxiv.org/pdf/1511.02793.pdf)
+Generating Images From Captions with Attention (ICLR2016) [PDF](https://arxiv.org/pdf/1511.02793.pdf) [code](https://github.com/emansim/text2image)
 <p align="center"><img src="img/generating_attn.png" width="700"/></p>
 
-Learning What and Where to Draw (NIPS2016) [PDF](https://arxiv.org/pdf/1610.02454.pdf)
+Learning What and Where to Draw (NIPS2016) [PDF](https://arxiv.org/pdf/1610.02454.pdf) [code](https://github.com/reedscot/nips2016)
 <p align="center"><img src="img/where_to_draw.png" width="700"/></p>
 
-Generative Adversarial Text to Image Synthesis (arXiv 2016) [PDF](https://arxiv.org/pdf/1605.05396.pdf)
+Generative Adversarial Text to Image Synthesis (ICML2016) [PDF](https://arxiv.org/pdf/1605.05396.pdf) [code](https://github.com/reedscot/icml2016)
 <p align="center"><img src="img/generative_synthesis.png" width="700"/></p>
 
-StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks (ICCV2017) [PDF](https://arxiv.org/pdf/1612.03242.pdf)
+StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks (ICCV2017) [PDF](https://arxiv.org/pdf/1612.03242.pdf) [code](https://github.com/hanzhanggit/StackGAN)
 <p align="center"><img src="img/stackgan.png" width="700"/></p>
 
 ChatPainter: Improving Text to Image Generation using Dialogue (arXiv 2018) [PDF](https://arxiv.org/pdf/1802.08216.pdf)
 <p align="center"><img src="img/chat_painter.png" width="700"/></p>
 
-AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks (CVPR2018) [PDF](https://arxiv.org/pdf/1711.10485.pdf) [Code](https://github.com/taoxugit/AttnGAN)
+AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks (CVPR2018) [PDF](https://arxiv.org/pdf/1711.10485.pdf) [Code](https://github.com/taoxugit/AttnGAN) [code](https://github.com/taoxugit/AttnGAN)
 <p align="center"><img src="img/attngan.png" width="700"/></p>
 
 Text2Scene: Generating Abstract Scenes from Textual Descriptions (arXiv2018) [PDF](https://arxiv.org/pdf/1809.01110.pdf)
